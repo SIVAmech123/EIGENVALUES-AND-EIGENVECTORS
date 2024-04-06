@@ -11,6 +11,9 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: 
 
 ## Program:
+<img width="668" alt="Screenshot 2024-04-06 132405" src="https://github.com/SIVAmech123/EIGENVALUES-AND-EIGENVECTORS/assets/151629067/fc13dac8-e013-4a09-9e5e-02e9bd93bfaf">
+
+
 
 ## Output:
 ## Result:
